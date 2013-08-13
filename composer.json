@@ -1,0 +1,20 @@
+{
+    "name": "rawebone/messages",
+    "description": "An implementation of a Messages OOP pattern",
+    "license": "MIT",
+    "keywords": [ "oop", "messages", "pattern" ],
+    "authors": [
+        {
+            "name": "Nick Rawe",
+            "email": "rawebone@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "Rawebone\\Messages\\": [ "library/" ]
+        }
+    }
+}
